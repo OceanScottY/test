@@ -1,0 +1,9 @@
+2018-05-15 10:08:59 [ main:0 ] - [  INFO ] [Test.main(Test.java:23)] This is a info test
+2018-05-15 10:08:59 [ main:4 ] - [  WARN ] [Test.main(Test.java:24)] This is a warn test
+2018-05-15 10:08:59 [ main:4 ] - [ ERROR ] [Test.main(Test.java:25)] This is a error test
+2018-05-15 10:10:32 [ main:0 ] - [  INFO ] [Test.main(Test.java:23)] This is a info test
+2018-05-15 10:10:32 [ main:2 ] - [  WARN ] [Test.main(Test.java:24)] This is a warn test
+2018-05-15 10:10:32 [ main:3 ] - [ ERROR ] [Test.main(Test.java:25)] This is a error test
+2018-05-15 10:12:10 [ main:0 ] - [  INFO ] [Test.main(Test.java:23)] This is a info test
+2018-05-15 10:12:10 [ main:3 ] - [  WARN ] [Test.main(Test.java:24)] This is a warn test
+2018-05-15 10:12:10 [ main:3 ] - [ ERROR ] [Test.main(Test.java:25)] This is a error test
